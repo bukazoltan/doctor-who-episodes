@@ -2195,7 +2195,7 @@ INSERT INTO `serials_doctors` (serial_id,doctor_id) VALUES (112,4);
 INSERT INTO `serials_doctors` (serial_id,doctor_id) VALUES (113,4);
 INSERT INTO `serials_doctors` (serial_id,doctor_id) VALUES (114,4);
 INSERT INTO `serials_doctors` (serial_id,doctor_id) VALUES (115,4);
-INSERT INTO `serials_doctors` (serial_id,doctor_id) VALUES (116,4);
+INSERT INTO `serials_doctors` (serial_id,doctor_id) VALUES (116,5);
 INSERT INTO `serials_doctors` (serial_id,doctor_id) VALUES (117,5);
 INSERT INTO `serials_doctors` (serial_id,doctor_id) VALUES (118,5);
 INSERT INTO `serials_doctors` (serial_id,doctor_id) VALUES (119,5);
